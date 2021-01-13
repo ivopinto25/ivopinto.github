@@ -1,0 +1,8 @@
+Um projeto com o objetivo de aumentar a dinâmica as visitas à Fábrica Centro da Ciência Viva, 
+em Aveiro, conseguindo logicamente uma melhor aprendizagem por parte de todos os intervenientes.
+Os resultados a serem guardados/gerados numa base de dados, entrando posteriormente num ranking 
+de classificações, com o intuito de mobilizar mais pessoas à fábrica e criar um interesse extra a
+ todos os participantes/visitantes, com a assimilação de conhecimento, assim como também o acesso 
+a prémios, brindes, ou mesmo a notoriedade de ficar nos lugares cimeiros, consoante a sua
+pontuação. O acesso ao quiz seria feito fisicamente, em cada sala da fábrica, sendo que o
+seu acesso é realizado através de um QR code.
